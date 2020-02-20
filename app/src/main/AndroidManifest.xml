@@ -21,6 +21,9 @@
         <activity
             android:name=".ui.DashboardActivity"
             android:screenOrientation="landscape" />
+        <activity
+            android:name=".ui.GameActivity"
+            android:screenOrientation="landscape" />
     </application>
 
 </manifest>

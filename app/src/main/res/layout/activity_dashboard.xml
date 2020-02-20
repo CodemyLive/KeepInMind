@@ -8,6 +8,7 @@
 
 
     <Button
+        android:id="@+id/btnEasyGG"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
@@ -19,6 +20,7 @@
         android:textStyle="bold" />
 
     <Button
+        android:id="@+id/btnMedium"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentTop="true"
@@ -31,6 +33,7 @@
 
 
     <Button
+        android:id="@+id/btnHard"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
@@ -43,6 +46,7 @@
 
 
     <Button
+        android:id="@+id/btnEpic"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentRight="true"
